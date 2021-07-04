@@ -1,0 +1,573 @@
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 35 the number of training samples: 3400709 .
+Epoch 11.0000, Loss: 0.2128, Accuracy: 90.8657, Validation Loss: 0.2136, Validation Accuracy: 90.8816 .
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 35 the number of training samples: 3400709 .
+Epoch 10.0000, Loss: 0.2133, Accuracy: 90.8524, Validation Loss: 0.2142, Validation Accuracy: 90.8713 .
+
+
+Training log for the target variable "has_vendor_number" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 7.0000, Loss: 0.1547, Accuracy: 93.7540, Validation Loss: 0.1565, Validation Accuracy: 93.7145 .
+
+
+Training log for the target variable "company_country" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 140 the number of training samples: 3400709 .
+Epoch 24.0000, Loss: 0.7409, Accuracy: 74.4868, Validation Loss: 0.7397, Validation Accuracy: 74.5200 .
+
+
+Training log for the target variable "link_type" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 8.0000, Loss: 0.1372, Accuracy: 94.2377, Validation Loss: 0.1385, Validation Accuracy: 94.1756 .
+
+
+Training log for the target variable "company_currency" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 67 the number of training samples: 3400709 .
+Epoch 11.0000, Loss: 0.2886, Accuracy: 88.6455, Validation Loss: 0.2893, Validation Accuracy: 88.6400 .
+
+
+Training log for the target variable "language" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 25 the number of training samples: 3400709 .
+Epoch 11.0000, Loss: 0.3782, Accuracy: 83.8210, Validation Loss: 0.3804, Validation Accuracy: 83.7190 .
+
+
+Training log for the target variable "hide_from_search" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 6.0000, Loss: 0.0317, Accuracy: 98.8021, Validation Loss: 0.0325, Validation Accuracy: 98.7935 .
+
+
+Training log for the target variable "release_state" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 5 the number of training samples: 3400709 .
+Epoch 10.0000, Loss: 0.3876, Accuracy: 82.3823, Validation Loss: 0.3908, Validation Accuracy: 82.2167 .
+
+
+Training log for the target variable "classification" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 177 the number of training samples: 3400709 .
+Epoch 10.0000, Loss: 0.4194, Accuracy: 81.9429, Validation Loss: 0.4188, Validation Accuracy: 81.9882 .
+
+
+Training log for the target variable "delivery_terms_maintained" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 9.0000, Loss: 0.2306, Accuracy: 90.6966, Validation Loss: 0.2341, Validation Accuracy: 90.6164 .
+
+
+Training log for the target variable "payment_terms_maintained" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 8.0000, Loss: 0.2139, Accuracy: 91.0345, Validation Loss: 0.2160, Validation Accuracy: 90.9334 .
+
+
+Training log for the target variable "homepage_maintained" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 12.0000, Loss: 0.4372, Accuracy: 77.4381, Validation Loss: 0.4432, Validation Accuracy: 77.2862 .
+
+
+Training log for the target variable "duns_maintained" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 11.0000, Loss: 0.3656, Accuracy: 81.0426, Validation Loss: 0.3699, Validation Accuracy: 80.8693 .
+
+
+Training log for the target variable "vat_code_maintained" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 8.0000, Loss: 0.2921, Accuracy: 86.2306, Validation Loss: 0.2939, Validation Accuracy: 86.1758 .
+
+
+Training log for the target variable "tax_number_maintained" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 10.0000, Loss: 0.2617, Accuracy: 86.9417, Validation Loss: 0.2642, Validation Accuracy: 86.9154 .
+
+
+Training log for the target variable "zipcode_maintained" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 6.0000, Loss: 0.1320, Accuracy: 94.7466, Validation Loss: 0.1326, Validation Accuracy: 94.6943 .
+
+
+Training log for the target variable "city_maintained" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 6.0000, Loss: 0.1249, Accuracy: 95.0667, Validation Loss: 0.1252, Validation Accuracy: 95.0352 .
+
+
+Training log for the target variable "address_maintained" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 7.0000, Loss: 0.1261, Accuracy: 94.9286, Validation Loss: 0.1276, Validation Accuracy: 94.8773 .
+
+
+Training log for the target variable "geographic_area_maintained" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 8.0000, Loss: 0.2273, Accuracy: 89.5486, Validation Loss: 0.2287, Validation Accuracy: 89.4669 .
+
+
+Training log for the target variable "has_debitor" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 7.0000, Loss: 0.2263, Accuracy: 89.3452, Validation Loss: 0.2281, Validation Accuracy: 89.2896 .
+
+
+Training log for the target variable "has_transport_zone" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 6.0000, Loss: 0.0680, Accuracy: 97.1833, Validation Loss: 0.0688, Validation Accuracy: 97.1427 .
+
+
+Training log for the target variable "has_user_id" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 6.0000, Loss: 0.1483, Accuracy: 93.7262, Validation Loss: 0.1487, Validation Accuracy: 93.7034 .
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 35 the number of training samples: 3400709 .
+Epoch 10.0000, Loss: 0.2135, Accuracy: 90.8464, Validation Loss: 0.2144, Validation Accuracy: 90.8699 .
+
+
+Training log for the target variable "profile_type" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 3 the number of training samples: 3400709 .
+Epoch 6.0000, Loss: 0.1510, Accuracy: 92.0579, Validation Loss: 0.1525, Validation Accuracy: 91.9955 .
+
+
+Training log for the target variable "detailed_status" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 10 the number of training samples: 3400709 .
+Epoch 8.0000, Loss: 1.0088, Accuracy: 59.2477, Validation Loss: 1.0095, Validation Accuracy: 59.3923 .
+
+
+Training log for the target variable "nr_awarded_items" regression:
+Early stopping parameters: patience = 3, minimum_delta = 5
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 1e-04, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 0 the number of training samples: 2957893 .
+Epoch 8.0000, Loss: 5295.6953, R Square: 45.6611, Validation Loss: 5270.1230, Validation R Square: 45.9239 .
+
+
+Training log for the target variable "reg_step" regression:
+Early stopping parameters: patience = 3, minimum_delta = 5
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 1e-04, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 0 the number of training samples: 3377714 .
+Epoch 6.0000, Loss: 7.4953, R Square: 58.0281, Validation Loss: 7.5856, Validation R Square: 57.3237 .
+
+
+Training log for the target variable "sent_date" regression:
+Early stopping parameters: patience = 3, minimum_delta = 5
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 1e-04, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 0 the number of training samples: 3071530 .
+Epoch 7.0000, Loss: 293.2669, R Square: 44.4479, Validation Loss: 298.1555, Validation R Square: 47.7089 .
+
+
+Training log for the target variable "created" regression:
+Early stopping parameters: patience = 3, minimum_delta = 500
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 1e-04, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 0 the number of training samples: 3313680 .
+Epoch 24.0000, Loss: 304010.8125, R Square: 78.0858, Validation Loss: 307332.1875, Validation R Square: 77.9354 .
+
+
+Training log for the target variable "sent_datetime" regression:
+Early stopping parameters: patience = 3, minimum_delta = 5
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 1e-04, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 0 the number of training samples: 1898989 .
+Epoch 11.0000, Loss: 569.1438, R Square: 48.2723, Validation Loss: 614.8243, Validation R Square: 49.0450 .
+
+
+Training log for the target variable "sent_back" binary_classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.01
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 2 the number of training samples: 2957893 .
+Epoch 6.0000, Loss: 0.4652, Accuracy: 76.1901, Validation Loss: 0.5004, Validation Accuracy: 75.9186 .
+
+
+Training log for the target variable "delivery_terms_maintained" binary_classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.01
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 2 the number of training samples: 3377714 .
+Epoch 6.0000, Loss: 0.2157, Accuracy: 91.2027, Validation Loss: 0.2166, Validation Accuracy: 91.1585 .
+
+
+Training log for the target variable "payment_terms_maintained" binary_classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.01
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 2 the number of training samples: 3377714 .
+Epoch 6.0000, Loss: 0.1978, Accuracy: 91.5392, Validation Loss: 0.1999, Validation Accuracy: 91.4495 .
+
+
+Training log for the target variable "homepage_maintained" binary_classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.01
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 2 the number of training samples: 3377714 .
+Epoch 6.0000, Loss: 0.4269, Accuracy: 77.6719, Validation Loss: 0.4292, Validation Accuracy: 77.5064 .
+
+
+Training log for the target variable "duns_maintained" binary_classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.01
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 2 the number of training samples: 3377714 .
+Epoch 6.0000, Loss: 0.3534, Accuracy: 81.3772, Validation Loss: 0.3542, Validation Accuracy: 81.3018 .
+
+
+Training log for the target variable "vat_code_maintained" binary_classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.01
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 2 the number of training samples: 3377714 .
+Epoch 6.0000, Loss: 0.2770, Accuracy: 86.7127, Validation Loss: 0.2791, Validation Accuracy: 86.6987 .
+
+
+Training log for the target variable "tax_number_maintained" binary_classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.01
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 2 the number of training samples: 3377714 .
+Epoch 6.0000, Loss: 0.2476, Accuracy: 87.3948, Validation Loss: 0.2488, Validation Accuracy: 87.4294 .
+
+
+Training log for the target variable "zipcode_maintained" binary_classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.01
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 2 the number of training samples: 3377714 .
+Epoch 6.0000, Loss: 0.1131, Accuracy: 95.3528, Validation Loss: 0.1146, Validation Accuracy: 95.3169 .
+
+
+Training log for the target variable "city_maintained" binary_classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.01
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 2 the number of training samples: 3377714 .
+Epoch 6.0000, Loss: 0.1061, Accuracy: 95.6772, Validation Loss: 0.1075, Validation Accuracy: 95.6610 .
+
+
+Training log for the target variable "address_maintained" binary_classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.01
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 2 the number of training samples: 3377714 .
+Epoch 6.0000, Loss: 0.1082, Accuracy: 95.5150, Validation Loss: 0.1094, Validation Accuracy: 95.5218 .
+
+
+Training log for the target variable "geographic_area_maintained" binary_classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.01
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 2 the number of training samples: 3377714 .
+Epoch 6.0000, Loss: 0.2113, Accuracy: 90.0400, Validation Loss: 0.2121, Validation Accuracy: 89.9959 .
+
+
+Training log for the target variable "has_debitor" binary_classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.01
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 2 the number of training samples: 3377714 .
+Epoch 6.0000, Loss: 0.2095, Accuracy: 89.8799, Validation Loss: 0.2110, Validation Accuracy: 89.7972 .
+
+
+Training log for the target variable "has_transport_zone" binary_classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.01
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 2 the number of training samples: 3377714 .
+Epoch 6.0000, Loss: 0.0494, Accuracy: 97.7793, Validation Loss: 0.0494, Validation Accuracy: 97.8083 .
+
+
+Training log for the target variable "has_user_id" binary_classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.01
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 2 the number of training samples: 3377714 .
+Epoch 6.0000, Loss: 0.1295, Accuracy: 94.3256, Validation Loss: 0.1333, Validation Accuracy: 94.1602 .
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 35 the number of training samples: 3400709 .
+Epoch 9.0000, Loss: 0.2143, Accuracy: 90.8283, Validation Loss: 0.2145, Validation Accuracy: 90.8734 .
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 35 the number of training samples: 3400709 .
+Epoch 9.0000, Loss: 0.2143, Accuracy: 90.8235, Validation Loss: 0.2145, Validation Accuracy: 90.8554 .
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 35 the number of training samples: 3400709 .
+Epoch 11.0000, Loss: 0.2130, Accuracy: 90.8591, Validation Loss: 0.2141, Validation Accuracy: 90.8225 .
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 35 the number of training samples: 3400709 .
+Epoch 9.0000, Loss: 0.2144, Accuracy: 90.8183, Validation Loss: 0.2152, Validation Accuracy: 90.8349 .
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+Optimizer config data: {'name': 'Nadam', 'learning_rate': 0.001, 'decay': 0.004, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07}
+The number of classes: 35 the number of training samples: 3400709 .
+Epoch 9.0000, Loss: 0.2145, Accuracy: 90.8096, Validation Loss: 0.2148, Validation Accuracy: 90.8246 .
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" classification:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+
+
+Training log for the target variable "abc" 0:
+
+
+Training log for the target variable "abc" 0:
+
+
+Training log for the target variable "abc" 0:
+
+
+Training log for the target variable "abc" 0:
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
+
+
+Training log for the target variable "abc" 0:
+Early stopping parameters: patience = 3, minimum_delta = 0.001
